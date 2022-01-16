@@ -32,6 +32,7 @@ class TailwindInputBuilder < ActionView::Helpers::FormBuilder
         super(object_name,options.reverse_merge(class: "h-6 w-6 border border-gray-300 rounded-lg ml-2"))
     end
   
+  
     def date_field(object_name, method_name, options={})
         super(
             object_name, 
