@@ -1,3 +1,5 @@
+## Introduction
+
 Resumeflex is a resume-sharing platform that allows users to sign up and create a profile based upon skills, projects, education, and past experiences. Users can log in to edit their profile as well as share a public URL which will serve as a shareable resume on the web and can be shared with prospective employers. Resumeflex also provides the option to download a short CV in PDF format generated using the information entered in the profile. This application was made with Ruby on Rails and the frontend was styled using Tailwind CSS then deployed on the web hosting platform Heroku.
 
 ## Tech stack for this app
