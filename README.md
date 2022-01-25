@@ -1,10 +1,8 @@
-# Flexiple Assignment
-
 ## Tech stack for this app
 
-- RoR
+- Ruby on Rails
 - PostgreSQL
-- tailwindcss
+- Tailwindcss
 
 ## Setup
 
@@ -19,4 +17,4 @@ rake db:seed
 Email: `johndoe@example.com`
 Password: `password`
 
-
+URL of the live app: resumeflex.herokuapp.com
